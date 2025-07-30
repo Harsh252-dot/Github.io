@@ -114,7 +114,7 @@ function setTyper(element, words) {
 
 //Resume button line
 document.getElementById('resume-link-2').addEventListener("click",()=>{
-  window.open("https://drive.google.com/file/d/14E1Rx27bgiBs6zp8RqJBsc3xOiKSRmHy/view?usp=share_link","_blank")
+  window.open("https://drive.google.com/file/d/1jj3ix96RFNeIwvAn_bGiBcbIyIAfR6GS/view?usp=sharing","_blank")
 })
 
  
